@@ -1,0 +1,21 @@
+.login-content {
+    width: 25%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid red;
+}
+
+.login-content button {
+    padding: 10px;
+}
+
+.content-field {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-field input {
+    padding: 10px;
+}
