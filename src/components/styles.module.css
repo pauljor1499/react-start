@@ -1,0 +1,48 @@
+.productsContent {
+    width: 100%;
+}
+
+.products {
+    width: 100%;
+    padding: 10px;
+}
+
+.itemProduct {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+
+.itemCartProduct {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    background-color: whitesmoke;
+    color: blueviolet;
+    margin: 10px;
+}
+
+.itemProductButton {
+    padding: 10px;
+    border: none;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 5px;
+}
+
+.search {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.cartDetails {
+    width: 100%;
+    padding: 10px;
+    background-color: darkorchid;
+    color: white;
+}
